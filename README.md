@@ -1,3 +1,11 @@
+Forked from sidneys repo.
+
+Notable changes:
+- Can be packaged using pkg.
+- Portable: Expects ffmpeg.exe binary to be placed in \bin\ without having to fully install ffmpeg locally.
+
+---
+
 # ffmpeg-progressbar-cli [![npm](https://img.shields.io/npm/v/ffmpeg-progressbar-cli.svg?style=flat-square)](https://npmjs.com/package/ffmpeg-progressbar-cli)
 
 <p align="center">
